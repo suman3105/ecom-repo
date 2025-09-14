@@ -1,4 +1,4 @@
-# EcommerceApp3
+# EcommerceApp
 
 An **E-commerce web application** built using **Java (JSP/Servlets)**, **Apache Tomcat**, and **MySQL**.  
 Developed in **Apache NetBeans IDE** with JDBC for database connectivity.
