@@ -24,4 +24,3 @@ Developed in **Apache NetBeans IDE** with JDBC for database connectivity.
 
 ---
 
-## 📂 Project Structure
