@@ -1,0 +1,17 @@
+# EcommerceApp3 Requirements
+
+# Java & IDE
+JDK 8 or later
+Apache NetBeans IDE (12.x or later)
+
+# Server
+Apache Tomcat 9.x or later
+
+# Database
+MySQL Server 8.x
+MySQL Workbench (for database management)
+
+# Libraries / JARs (place inside /lib or add to NetBeans project)
+mysql-connector-j-8.0.xx.jar   # MySQL JDBC driver (required)
+javax.servlet-api-4.0.1.jar    # Servlet API (usually provided by Tomcat)
+jsp-api.jar                    # JSP API (usually provided by Tomcat)
